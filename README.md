@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Apprenti | 20 ans | 4AUFA@ESIEA | Ile-de-France | 🤠
+
+## Formation
+
+2019-2022 : ESIEA, Ivry-sur-Seine (94200)
+École d'ingénieur. Domaine du numérique et de l'informatique.
 <!--
 **ismaelbalaghni/ismaelbalaghni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
