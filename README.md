@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ismaelbalaghni.me](ismaelbalaghni.me)
 
-- 📫 How to reach me **ismael.balaghni@gmail.com**
+- 📫 How to reach me **hello@ismaelbalaghni.me**
 
 - ⚡ Fun fact **I like Microsoft products and US football. Go Pats!!**
 
