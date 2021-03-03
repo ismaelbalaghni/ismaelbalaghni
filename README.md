@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismaël Balaghni</h1>
-<h3 align="center">Apprenti ingénieur | Thales@ESIEA | 20 ans | passionné d’informatique</h3>
+<h3 align="center">Apprenti ingénieur | Thales@4A-UFA-ESIEA | 20 ans | passionné d’informatique</h3>
 
 <p align="left"> <a href="https://twitter.com/ismascarade" target="blank"><img src="https://img.shields.io/twitter/follow/ismascarade?logo=twitter&style=for-the-badge" alt="ismascarade" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, GitHub Pages and everything web and app related.**
 
-- 👨‍💻 All of my projects are available at [ismaelbalaghni.me](ismaelbalaghni.me)
+- 👨‍💻 All of my projects are available at [ismaelbalaghni.me](ismaelbalaghni.me) (not yet...)
 
 - 📫 How to reach me **hello@ismaelbalaghni.me**
 
